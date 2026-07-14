@@ -1,0 +1,47 @@
+{
+  "testuser": {
+    "display_name": "Test User",
+    "salt": "e9642e80f0dea06df0e518f321f32eea",
+    "password_hash": "4164db51798ee8ffb45e7e4292f54ece5d902fa987a7d9a87091238785a5d667",
+    "email": "test@example.com",
+    "phone": "+1234567890",
+    "reset_code_hash": "a1fb7a92c4eba93e6d82e8f710ddfb360a26779ec554793334c6f64bbdaa6917",
+    "reset_code_expires": "2026-07-13T09:06:54.628266"
+  },
+  "messy": {
+    "display_name": "Abhi",
+    "salt": "b4eb23a4c9dd93cdb0ddf9529afc8a43",
+    "password_hash": "a42f40a8db179d58b7cedb187e73e021e5233f2d271268ac74adc6886a1e7fe3",
+    "email": "abhishekna02@gmail.com",
+    "phone": "7795542005",
+    "reset_code_hash": null,
+    "reset_code_expires": null
+  },
+  "web": {
+    "display_name": "Python",
+    "salt": "e585e5e835214510c1ab756537a67bf2",
+    "password_hash": "6bf67f1551b6f54ba4e3459f961768c3cdfad532905c732394df9e52709062c5",
+    "email": "abhishekna02@gmail.com",
+    "phone": "7795542005",
+    "reset_code_hash": null,
+    "reset_code_expires": null
+  },
+  "python": {
+    "display_name": "Guru",
+    "salt": "d2be695b59f023f91b398b2218aab95a",
+    "password_hash": "fd0ea1c2e148b1b7d76ccfa5192a0c4810e843e65f6f71705689b2c5f2a32429",
+    "email": "abhishekna02@gmail.com",
+    "phone": "7795642005",
+    "reset_code_hash": null,
+    "reset_code_expires": null
+  },
+  "nag": {
+    "display_name": "Raj",
+    "salt": "78f38c24c40e8f6dafc602af3148c0dc",
+    "password_hash": "eb6c283e58938798390620d1f4e87c19db1d4ebf0c24ac4a022b8573104f9ffc",
+    "email": "guruprasad11351@gmail.com",
+    "phone": "+919663112551",
+    "reset_code_hash": null,
+    "reset_code_expires": null
+  }
+}

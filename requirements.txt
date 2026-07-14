@@ -1,0 +1,7 @@
+streamlit>=1.40
+ollama>=0.4
+pypdf>=5.0
+scikit-learn>=1.5
+faster-whisper>=1.1
+python-dotenv>=1.0
+twilio>=9.0   # optional: only needed if you configure SMS reset codes
