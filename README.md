@@ -125,14 +125,17 @@ Then open the URL Streamlit prints (typically `http://localhost:8501`), create a
 
 ---
 ## Preview
-![alt text](<Screenshot 2026-07-15 213516.png>)
----
-
-![alt text](<Screenshot 2026-07-15 214232.png>)
+<img width="954" height="434" alt="Screenshot 2026-07-15 213516" src="https://github.com/user-attachments/assets/8c79b6b5-17aa-4b8e-86ce-17bf5d7f6661" />
 
 ---
 
-![alt text](<Screenshot 2026-07-15 214506.png>)
+<img width="947" height="431" alt="Screenshot 2026-07-15 214232" src="https://github.com/user-attachments/assets/32619670-1b71-426f-9e22-a352bea4148a" />
+
+
+---
+
+<img width="949" height="414" alt="Screenshot 2026-07-15 214506" src="https://github.com/user-attachments/assets/385960ca-5ba8-47c9-90a9-48c0be53eb1d" />
+
 
 ---
 
